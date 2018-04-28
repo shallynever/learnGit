@@ -10,3 +10,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCdi7bhCoDU+k0ZQvUEhAqtm3sb1pMcpAOwhQgPXFdn
 Warning: Permanently added the RSA host key for IP address '13.250.177.223' to the list of known hosts.
 
 Creating a new branch is quick.
+
+Creating a new branch is quick & simple.
