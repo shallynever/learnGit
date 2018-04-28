@@ -11,4 +11,5 @@ Warning: Permanently added the RSA host key for IP address '13.250.177.223' to t
 
 Creating a new branch is quick.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
